@@ -1,4 +1,4 @@
-# Fudy Assignment REST APIs
+# Order Service with gRPC communication protocol
 
 Before you proceed, it's probably worth it to check the:
 - [Project Breakdown](https://github.com/iAmCodeHead/fudy-assignment/tree/master/docs)
